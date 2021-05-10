@@ -10,3 +10,5 @@ In this project we have build a complete snake and apple video game using pygame
 
 Click here to go to this project
 
+
+check out my channel:https://www.youtube.com/channel/UCnpMXFJBcp_1NzlUXW_U1Cg
